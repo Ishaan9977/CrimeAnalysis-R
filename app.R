@@ -3,7 +3,6 @@ install.packages(c(
   "dplyr", "lubridate", "tidyr", "viridis"
 ))
 
-# Add libraries at the top if not already loaded
 library(shiny)
 library(shinydashboard)
 library(sf)
